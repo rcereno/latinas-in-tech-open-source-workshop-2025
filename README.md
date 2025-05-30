@@ -21,14 +21,14 @@ Add your name and one thing you're loving about the Latinas in Tech Summit! <br>
 It could be your favorite session, a speaker who inspired you, someone you met, or just how you're feeling being in this comunidad. :sparkling_heart:<br>
 Example:<br>
 Monica Miyasato: Loved seeing so many powerful Latinas taking up space in tech! <br>
-[Your Name]: [Your Shoutout]
+Rhoyalinn Cereno: I am loving meeting so many passionate and strong Latinas in the tech industry, as well as with allies and sponsors.
 
 ---
 ## :speech_balloon: Why I’m Excited About Open Source
 Feel free to add your own reason below!<br>
 Example:<br>
 Monica: To lift my comunidad and build visible, inclusive tech spaces. <br>
-[Your Name]: [Your Reason]
+Rhoyalinn Cereno: To make meaningful contributions and collaborate with others.
 
 ---
 ## :star: Keep Exploring
